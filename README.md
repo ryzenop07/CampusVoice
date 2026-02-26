@@ -691,7 +691,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ Star this repo if you found it helpful!
 
-Made with ❤️ for HackIndia 2024
+Made with ❤️ for HackIndia 2026
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/campusvoice-ai?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/campusvoice-ai?style=social)
