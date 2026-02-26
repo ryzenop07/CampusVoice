@@ -3,7 +3,7 @@
 <div align="center">
 
 ![CampusVoice AI](https://img.shields.io/badge/CampusVoice-AI%20Powered-blue?style=for-the-badge)
-![HackIndia](https://img.shields.io/badge/HackIndia-2024-orange?style=for-the-badge)
+![HackIndia](https://img.shields.io/badge/HackIndia-2026-orange?style=for-the-badge)
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
 
 **Bringing Transparency & Intelligence to College Complaint Management**
