@@ -8,7 +8,7 @@
 
 **Bringing Transparency & Intelligence to College Complaint Management**
 
-[Live Demo](#) • [Video Demo](#) • [Documentation](#) • [Report Bug](#)
+
 
 </div>
 
