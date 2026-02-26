@@ -685,13 +685,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 📞 Contact
-
-**Project Link:** [https://github.com/yourusername/campusvoice-ai](https://github.com/yourusername/campusvoice-ai)
-
-**Live Demo:** [https://campusvoice-ai.vercel.app](https://campusvoice-ai.vercel.app)
-
-**Email:** your.email@example.com
-
 ---
 
 <div align="center">
